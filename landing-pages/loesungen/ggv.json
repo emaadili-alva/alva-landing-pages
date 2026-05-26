@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "slug": "loesungen/ggv",
+    "page_title": "Gemeinschaftliche Gebäudeversorgung (GGV) | ALVA Energie – Ihr GGV Anbieter",
+    "meta_description": "GGV nach §42b EnWG: ALVA übernimmt Planung, Smart Meter & Abrechnung komplett. Solarstrom direkt an Mieter – kein Investment, kein Aufwand für Eigentümer.",
+    "keywords": "gemeinschaftliche gebäudeversorgung, ggv anbieter, ggv solarpaket 1, mieterstrom alternative, solarstrom mieter, §42b enwg, wohnungswirtschaft solar",
+    "canonical_url": "https://www.alva-energie.de/loesungen/ggv"
+  },
+  "hero": {
+    "eyebrow": "Für Wohnungswirtschaft & Immobiliengesellschaften",
+    "headline": "SOLARSTROM DIREKT AN MIETER — OHNE LIEFERANTENPFLICHTEN",
+    "headline_highlight": "SOLARSTROM",
+    "headline_rest": "DIREKT AN MIETER — OHNE LIEFERANTENPFLICHTEN",
+    "body": "Als erfahrener GGV-Anbieter übernimmt ALVA die komplette Abwicklung der gemeinschaftlichen Gebäudeversorgung – von der Potenzialanalyse über Smart Meter bis zur monatlichen Abrechnung. Sie profitieren von Zusatzerlösen und ESG-Vorteilen, ohne selbst zum Stromlieferanten zu werden.",
+    "social_proof_badge": "Bereits 200+ Projekte realisiert",
+    "cta_primary": "Jetzt Potenzial prüfen lassen",
+    "cta_subtext": "Kostenlos & unverbindlich. Kein Investment erforderlich.",
+    "trust_bullets": [
+      "GGV nach §42b EnWG (Solarpaket 1)",
+      "Abrechnung & Smart Meter inklusive",
+      "Komplettabwicklung durch ALVA",
+      "ESG-Reporting inklusive"
+    ]
+  },
+  "challenges": {
+    "section_heading": "Bekannte Herausforderungen",
+    "subheading": "Warum Mieterstrom oft scheitert – und die GGV das ändert",
+    "cards": [
+      {
+        "title": "Vollversorger-Pflichten",
+        "body": "Klassischer Mieterstrom macht Eigentümer zum Stromlieferanten – mit Bilanzierungspflicht, Preisregulierung und Haftungsrisiken. Die GGV befreit Eigentümer vollständig von diesen Pflichten."
+      },
+      {
+        "title": "Komplexe Abrechnung",
+        "body": "Separate Stromverträge, dynamische Eigenverbrauchsquoten und Netzentgeltregelungen überfordern interne Teams. ALVA übernimmt die gesamte messtechnische und kaufmännische Abrechnung."
+      },
+      {
+        "title": "Ungenutzte Dachflächen",
+        "body": "Viele Bestandsimmobilien haben Dachpotenzial, das ohne passendes Modell brachliegt. Die GGV ermöglicht es, dieses Potenzial in planbare Zusatzerlöse umzuwandeln – ohne Eigeninvestition."
+      }
+    ]
+  },
+  "solution": {
+    "section_heading": "Die ALVA GGV-Lösung",
+    "subheading": "Solarstrom im Gebäude teilen — einfach, rechtssicher, wirtschaftlich",
+    "body": "ALVA übernimmt die vollständige Umsetzung der gemeinschaftlichen Gebäudeversorgung nach §42b EnWG – von der technischen Planung und Montage über Smart Meter und Messstellenbetrieb bis hin zur monatlichen Abrechnung mit allen Mietern. Eigentümer erhalten planbare Erlöse und valide ESG-Kennzahlen, ohne internen Aufwand.",
+    "feature_cards": [
+      {
+        "title": "Keine Lieferantenpflichten",
+        "body": "Als GGV-Anbieter tritt ALVA als Messstellenbetreiber und Abrechnungsdienstleister auf – Sie werden nicht zum Stromlieferanten. Regulatorische Risiken und Bilanzierungspflichten entfallen vollständig."
+      },
+      {
+        "title": "Smart Meter & Abrechnung inklusive",
+        "body": "ALVA installiert, betreibt und liest alle intelligenten Messsysteme aus. Die verbrauchsabhängige Abrechnung mit jedem Mieter erfolgt monatlich automatisiert – ohne Aufwand für Ihre Hausverwaltung."
+      },
+      {
+        "title": "Planbare Zusatzerlöse",
+        "body": "Sie erhalten eine transparente Beteiligungsvergütung auf den im Gebäude verbrauchten Solarstrom. Die Erlöse sind kalkulierbar und fließen unabhängig vom Einzelverhalten einzelner Mieter."
+      },
+      {
+        "title": "Höhere Mieterakzeptanz",
+        "body": "Mieter beziehen günstigen Solarstrom direkt aus dem eigenen Gebäude – ohne Anbieterwechsel und ohne bürokratischen Aufwand. Das steigert die Zufriedenheit und stärkt die Bindung ans Objekt."
+      },
+      {
+        "title": "Messbare ESG-Daten",
+        "body": "ALVA liefert quartalsweise aufbereitete CO₂-Einsparungen und Eigenverbrauchsquoten je Objekt – direkt für Nachhaltigkeitsberichte, ESG-Ratings und Investorenreportings nutzbar."
+      },
+      {
+        "title": "Ohne eigenes Investment",
+        "body": "ALVA trägt die Kosten für PV-Anlage, Smart Meter und Infrastruktur. Eigentümer profitieren vom ersten Tag an – ohne Kapitalbindung und ohne technisches Betriebsrisiko."
+      }
+    ]
+  },
+  "comparison": {
+    "section_heading": "GGV vs. Mieterstrom",
+    "subheading": "Welches Modell passt zu Ihrem Portfolio?",
+    "body": "Die gemeinschaftliche Gebäudeversorgung und der klassische Mieterstrom verfolgen dasselbe Ziel – Solarstrom direkt an Mieter –, unterscheiden sich aber grundlegend in Aufwand, Haftung und Wirtschaftlichkeit für Eigentümer.",
+    "type": "table",
+    "columns": ["Gemeinschaftliche Gebäudeversorgung (GGV)", "Klassischer Mieterstrom"],
+    "rows": [
+      { "attribute": "Rechtliche Grundlage", "col_1": "§42b EnWG (Solarpaket 1)", "col_2": "§21 EEG 2023" },
+      { "attribute": "Lieferantenpflicht für Eigentümer", "col_1": "Nein – entfällt vollständig", "col_2": "Ja – Eigentümer wird Stromlieferant" },
+      { "attribute": "Bilanzierungspflicht", "col_1": "Nein", "col_2": "Ja" },
+      { "attribute": "Preisregulierung", "col_1": "Marktbasiert, frei verhandelbar", "col_2": "Gedeckelt (Mieterstromzuschlag)" },
+      { "attribute": "Abrechnung", "col_1": "Vollständig durch ALVA", "col_2": "Aufwand beim Eigentümer / Verwalter" },
+      { "attribute": "Förderfähigkeit", "col_1": "Ja (EEG-Einspeisevergütung möglich)", "col_2": "Ja (Mieterstromzuschlag)" },
+      { "attribute": "Geeignet für Bestand", "col_1": "Ja – auch Nachrüstung möglich", "col_2": "Eingeschränkt – Neubau bevorzugt" }
+    ]
+  },
+  "process": {
+    "section_heading": "In 3 Schritten zur GGV",
+    "subheading": "So einfach geht gemeinschaftliche Gebäudeversorgung mit ALVA",
+    "body": "Von der ersten Anfrage bis zum laufenden Betrieb übernimmt ALVA jeden Schritt. Eigentümer und Verwalter müssen weder technisches Know-how mitbringen noch internen Aufwand einplanen.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Potenzialanalyse",
+        "body": "ALVA prüft Ihre Liegenschaften kostenlos auf GGV-Eignung – Dachfläche, Verbrauchsstruktur, Mieteranzahl und Wirtschaftlichkeit. Sie erhalten eine klare Empfehlung je Objekt innerhalb von 5 Werktagen."
+      },
+      {
+        "number": "02",
+        "title": "Planung & Umsetzung",
+        "body": "ALVA übernimmt Genehmigung, PV-Planung, Montage und Smart-Meter-Installation vollständig. Sie unterzeichnen einen Rahmenvertrag – den Rest erledigt ALVA ohne weiteren Abstimmungsaufwand."
+      },
+      {
+        "number": "03",
+        "title": "Betrieb & Abrechnung",
+        "body": "Nach Inbetriebnahme läuft alles automatisch: ALVA rechnet monatlich mit allen Mietern ab, überwacht die Anlage und liefert quartalsweise ESG-Reports direkt in Ihr Postfach."
+      }
+    ]
+  },
+  "mid_cta": {
+    "heading": "GGV-Potenzial Ihres Portfolios prüfen lassen",
+    "body": "In einem kostenlosen 30-Minuten-Gespräch analysieren wir Ihre Liegenschaften auf GGV-Eignung und zeigen Ihnen konkret, welche Zusatzerlöse und ESG-Vorteile realistisch sind.",
+    "subtext": "Kostenlos & unverbindlich — in 30 Minuten",
+    "cta_button": "Kostenloses Beratungsgespräch buchen",
+    "reassurance": "0 Aufwand. 0 € Investment."
+  },
+  "stats": {
+    "section_heading": "ALVA in der Praxis",
+    "subheading": "Zahlen, die für sich sprechen.",
+    "body": "ALVA ist einer der erfahrensten GGV- und Mieterstrom-Anbieter in Deutschland. Unsere Projekte sprechen für sich.",
+    "items": [
+      { "number": "200+", "label": "Realisierte GGV- & Energieprojekte" },
+      { "number": "20 %", "label": "Durchschnittsrendite p.a. auf realisierte Projekte" },
+      { "number": "3.000+", "label": "Zufriedene Stromkund*innen" }
+    ]
+  },
+  "testimonials": {
+    "section_heading": "Kundenstimmen",
+    "subheading": "Was unsere Kunden sagen.",
+    "items": [
+      {
+        "quote": "Für uns war die Zusammenarbeit mit ALVA von Anfang an sehr unkompliziert, offen und entspannt.",
+        "name": "Kilian von Bassewitz",
+        "role": "Bestandshalter, Wohnungswirtschaft",
+        "stars": 5
+      },
+      {
+        "quote": "Gerade beim Stromhandel und der Abrechnung hätte ich echte Bauchschmerzen gehabt. Dass ALVA diesen Teil übernimmt, war für uns ein entscheidender Punkt.",
+        "name": "Kilian von Bassewitz",
+        "role": "Bestandshalter, Wohnungswirtschaft",
+        "stars": 5
+      },
+      {
+        "quote": "ALVA liefert keine schönen PowerPoints, sondern Ergebnisse. Die Wirtschaftlichkeitsberechnung trägt sich – und das merkt man in der Bilanz.",
+        "name": "Andreas Fleder",
+        "role": "Myplace",
+        "stars": 5
+      }
+    ]
+  },
+  "faq": {
+    "section_heading": "Häufige Fragen",
+    "subheading": "Alles Wichtige zur gemeinschaftlichen Gebäudeversorgung",
+    "items": [
+      {
+        "question": "Was ist die gemeinschaftliche Gebäudeversorgung (GGV)?",
+        "answer": "Die gemeinschaftliche Gebäudeversorgung (GGV) ist ein mit dem Solarpaket 1 eingeführtes Modell nach §42b EnWG, das es Eigentümern ermöglicht, Solarstrom vom Dach direkt an die Mieter des Gebäudes zu verteilen. Im Gegensatz zum klassischen Mieterstrom müssen Eigentümer dabei keine Lieferantenpflichten übernehmen – ein zertifizierter Messstellenbetreiber wie ALVA übernimmt Messung, Abrechnung und alle regulatorischen Aufgaben."
+      },
+      {
+        "question": "Was sind die Vorteile der GGV gegenüber klassischem Mieterstrom?",
+        "answer": "Der entscheidende Vorteil der GGV liegt darin, dass Eigentümer nicht zum Stromlieferanten werden. Damit entfallen Bilanzierungspflicht, Preisdeckelung und regulatorische Haftung, die beim klassischen Mieterstrom nach §21 EEG anfallen. Zusätzlich ist die GGV auch für Bestandsgebäude einfach nachrüstbar und bietet mehr Flexibilität bei der Preisgestaltung gegenüber Mietern."
+      },
+      {
+        "question": "Welche Objekte eignen sich für die GGV?",
+        "answer": "Grundsätzlich eignen sich alle Mehrfamilienhäuser und gemischt genutzten Gebäude mit nutzbarer Dachfläche und mindestens drei Wohn- oder Gewerbeeinheiten. Besonders attraktiv sind Objekte mit hohem Eigenverbrauchspotenzial, also Gebäude mit Mietern, die regelmäßig tagsüber Strom verbrauchen. ALVA prüft die Eignung kostenlos und unverbindlich."
+      },
+      {
+        "question": "Benötigen wir Smart Meter für die GGV?",
+        "answer": "Ja, die GGV setzt den Einsatz intelligenter Messsysteme (Smart Meter) voraus, um den erzeugten Solarstrom verursachergerecht auf die einzelnen Mieter aufzuteilen. ALVA übernimmt als zugelassener Messstellenbetreiber die Installation, den Betrieb und den Austausch aller Zähler – ohne Aufwand und ohne Kosten für Eigentümer oder Mieter."
+      },
+      {
+        "question": "Wie rechnen sich GGV-Projekte für Eigentümer?",
+        "answer": "Eigentümer erhalten eine Beteiligungsvergütung auf den im Gebäude verbrauchten Solarstrom. Da ALVA Anlage und Infrastruktur ohne Eigeninvestition bereitstellt, fließen die Erlöse vom ersten Tag an – ohne Kapitalbindung. Typische Projekte erzielen eine Rendite von 15–25 % p.a. auf den erzeugten und selbst verbrauchten Solarstrom, abhängig von Gebäudegröße, Dachfläche und Verbrauchsprofil."
+      }
+    ]
+  },
+  "final_cta": {
+    "heading": "Jetzt starten — Bereit für gemeinschaftliche Gebäudeversorgung?",
+    "body": "Lassen Sie ALVA Ihre Liegenschaften analysieren und erhalten Sie eine konkrete Wirtschaftlichkeitsrechnung – kostenlos, unverbindlich und ohne internen Aufwand.",
+    "bullets": [
+      "Kostenlose Potenzialanalyse Ihres Portfolios",
+      "Klare Wirtschaftlichkeitsrechnung je Objekt",
+      "Umsetzung komplett durch ALVA — ohne internen Aufwand",
+      "ESG-Reporting & Monitoring inklusive"
+    ],
+    "cta_button": "Kostenloses Erstgespräch buchen",
+    "reassurance": "Ihre Daten sind sicher. Kein Spam. Keine Weitergabe."
+  }
+}
